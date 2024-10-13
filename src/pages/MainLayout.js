@@ -14,7 +14,7 @@ import {
 import { GiPoliceBadge, GiBriefcase } from "react-icons/gi";
 import { FaFileAlt } from "react-icons/fa";
 import { Layout, Menu } from "antd";
-import { Link, Outlet, useNavigate } from "react-router-dom";
+import { Outlet, useNavigate } from "react-router-dom";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import nitmz from "../assests/images/nitmz.png"
